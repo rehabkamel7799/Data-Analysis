@@ -4,8 +4,10 @@ A collection of data analysis projects using Excel, SQL, Power BI, Python to unc
 
 **Sales Performance Dashboard** 
 [View Power BI Dashboard](https://drive.google.com/file/d/19z4h49j4f2_BY2iqOPVz7tauOrfhvF1y/view?usp=sharing)
-**Tools** Power BI - DAX - Power Query 
+**Tools** Power BI - DAX - Power Query  
+
 **KPIs** 
+
 -Total Due 
 -Total Subtotal 
 -Total Tax
