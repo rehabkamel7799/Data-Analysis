@@ -20,5 +20,7 @@ A collection of data analysis projects using Excel, SQL, Power BI, Python to unc
 -Total Due 
 -Total Subtotal by Product Category 
 
+[Sales Dashboard](./Sales%20Performace%20Dashboard.jpg)
+
 
 
