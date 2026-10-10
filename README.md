@@ -114,5 +114,8 @@ A dedicated DAX measures table was created to organize the measures and improve 
 - Build an interactive and well-structured Power BI data model.
 
 ## 📷 Dashboard Preview
-![Sales Dashboard](Sales_Performace_Dashboard.png)
+![Sales Dashboard](Adventurework_Sales_Analysis.png) 
+![Sales Dashboard](Advanturework_Sales_Analysis.png)
+![Sales Dashboard](Advanturework_Sales_Analysis2.png)
+
 
