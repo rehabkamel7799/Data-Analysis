@@ -119,7 +119,8 @@ A dedicated DAX measures table was created to organize the measures and improve 
 ![Sales Dashboard](Advanturework_Sales_Analysis2.png)
 
 
-**Sales & Financial Dashboard | Microsoft Excel** 
+
+📊**Sales & Financial Dashboard | Microsoft Excel** 
 
 **##Overview** 
 An interactive Excel dashboard that analyzes sales, profit, and discounts across 10 branches in 5 regions (Alexandria, Canal, Delta, Greater Cairo, Upper Egypt) over 2012 to 2014. It also includes a formula-based analysis sheet covering core Excel functions. 
