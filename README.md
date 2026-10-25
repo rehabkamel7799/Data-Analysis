@@ -119,3 +119,30 @@ A dedicated DAX measures table was created to organize the measures and improve 
 ![Sales Dashboard](Advanturework_Sales_Analysis2.png)
 
 
+**Sales & Financial Dashboard | Microsoft Excel** 
+
+**##Overview** 
+An interactive Excel dashboard that analyzes sales, profit, and discounts across 10 branches in 5 regions (Alexandria, Canal, Delta, Greater Cairo, Upper Egypt) over 2012 to 2014. It also includes a formula-based analysis sheet covering core Excel functions. 
+
+**##Tools** 
+-PivotTables 
+-Slicers (Branch, Year, Sub category) for interactive filtering 
+-Dashboard design (donut, 3D column, line, and bar charts) 
+-Formulas: SUM, SUMIF, AVERAGEIF, COUNTIF, LARGE/SMALL, IF (nested), MAX/MIN 
+-Conditional formatting and custom number formats 
+-Data cleaning and calculated fields (e.g., Discount 5%) 
+
+**##What the dashboard shows** 
+-Profit by Branch & Segment: a donut chart comparing the Alexandria branches, with a segment filter 
+-Profit by Branch: total profit per branch, ranging from about 949K (Minia) to about 1.14M (Port Said) 
+-Average Profit by Branch: shows efficiency per transaction, not just totals 
+-Discount by Segment & Branch: a line chart comparing discount cost across regions 
+-Profit by Sub-category: Microsoft, Samsung, and Sony tablets 
+-Sales by Product and Year: 2012 to 2014 comparison across phone and tablet models 
+
+**##Key figures**
+Total profit across all branches: about 10.25M 
+Total sales across all products: about 160M 
+Top-selling product: Microsoft Surface Pro 2 (about 18M total sales) 
+
+
