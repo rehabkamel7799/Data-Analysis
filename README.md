@@ -141,9 +141,14 @@ An interactive Excel dashboard that analyzes sales, profit, and discounts across
 -Profit by Sub-category: Microsoft, Samsung, and Sony tablets 
 -Sales by Product and Year: 2012 to 2014 comparison across phone and tablet models 
 
+
 **##Key figures**
 Total profit across all branches: about 10.25M 
 Total sales across all products: about 160M 
 Top-selling product: Microsoft Surface Pro 2 (about 18M total sales) 
+
+## 📷 Dashboard Preview
+![Sales Dashboard](excel_project.png) 
+![Sales Dashboard](Excel_Project_Questions.png)
 
 
